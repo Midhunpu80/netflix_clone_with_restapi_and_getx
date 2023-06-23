@@ -1,0 +1,3 @@
+const String apikey = "460e03dc6bd3091d6d11c7b4a1fed2b5";
+const String token =
+    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NjBlMDNkYzZiZDMwOTFkNmQxMWM3YjRhMWZlZDJiNSIsInN1YiI6IjY0OTE0YmRiNTU5ZDIyMDEzOWJmNzcwZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zg_XPFHfiMbXDmruRcn81WR2ecRZUIVcVsGF2U6wJY8";
